@@ -8,14 +8,19 @@ Dieses Repo enthält absichtlich keine personenbezogenen Daten, keinen konkreten
 
 1. `docs/00-publication-boundary.md` lesen.
 2. `docs/01-12-schritte-outline-gate.md` lesen.
-3. `workspace/01_expose_und_forschungsfrage/OUTLINE.md` stabilisieren.
-4. Erst danach Literaturmatrix, Syntheselogik und optionale explorative Anwendung vertiefen.
+3. `skills/uni-seeburg-mba-lit-01/SKILL.md` als operativen Codex-Skill laden.
+4. `workspace/01_expose_und_forschungsfrage/OUTLINE.md` stabilisieren.
+5. Erst danach Literaturmatrix, Syntheselogik und optionale explorative Anwendung vertiefen.
 
 ## Aktueller Typ
 
 - Arbeitstyp: Literaturarbeit / konzeptionelles Framework.
 - Primärer Qualitätsfokus: Reviewfrage, Suchstrategie, Quellenqualität, Framework-Eigenleistung, kritische Reflexion.
 - Public-Grenze: konkrete Person, Thema, Unternehmensdaten und Plattform-/Prompt-Rohdaten bleiben außerhalb dieses öffentlichen Repos.
+
+## Codex-Skill
+
+- `skills/uni-seeburg-mba-lit-01/SKILL.md` bündelt die Bewertungslogik, 1er-Benchmarks, Qualitätsgates, Quellenregeln, KI-Dokumentation und Formalia für dieses Repo.
 
 ## Wichtig
 

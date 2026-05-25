@@ -11,6 +11,10 @@ Dieses Repo ist temporär öffentlich. Behandle es als Public-Bootstrap, nicht a
 - KI-Output ist keine Quelle.
 - Immer echte Umlaute schreiben: ä, ö, ü.
 
+## Projekt-Skill
+
+Vor inhaltlicher Arbeit `skills/uni-seeburg-mba-lit-01/SKILL.md` lesen und dessen Gates anwenden. Wenn ein Codex-Client lokale Skills unterstützt, diesen Skill für alle Recherche-, Outline-, Quellen-, Framework-, Review- und Drafting-Aufgaben in diesem Repo aktivieren.
+
 ## Arbeitsreihenfolge
 
 1. Veröffentlichungsgrenze lesen.
